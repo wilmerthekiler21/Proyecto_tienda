@@ -22,6 +22,7 @@ header{
 .logo img{
     height: 50px;
     margin-right: 10px;
+    max-width: 100%;
 }
 nav a{
     font-weight: 600;
@@ -38,4 +39,13 @@ nav a:hover{
     nav{
         padding: 10px 0px;
     }
+    .container {
+        max-width: 968px;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+      }
+      a {
+        text-decoration: none;
+      }
+      
 }

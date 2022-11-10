@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
 </head>
 <body>
      <header>
@@ -20,33 +22,22 @@
             <a href="">Consejos</a>
         </nav>
      </header>
-    <form action="">
-      <div>
-        <div>
-          <img src="./img/electric-guitar-11530937008gqwe1aygab.png" alt="">
-          <h2>Precio Del profucto</h2>
-          <a href="">15000 MX</a>
-          <a href="">500 USA</a>
-          <h2>Producto antiguio</h2>
-        </div>
-        <div>
-          <img src="./img/373-3738830_inicio-guitarras-elctricas-guitarra-elctrica-orange-o-bass.png" alt="">
-          <h2>Precio Del profucto</h2>
-          <a href="">15000 MX</a>
-          <a href="">500 USA</a>
-          <h2>Producto antiguio</h2>
-        </div>
-        <div>
-          <img src="" alt="">
-          <a href=""></a>
-          <h2></h2>
-        </div>
-        <div>
-          <img src="" alt="">
-          <a href=""></a>
-          <h2></h2>
+      <div class="gitarras" class="container">
+        <h1 class="encabezado">Proximamente solo en cienes</h1>
+        <div class="row">
+          <div class="four columns">
+            <div class="card">
+              <img src="img/373-3738830_inicio-guitarras-elctricas-guitarra-elctrica-orange-o-bass.png" alt="">
+              <div class="info-card">
+                <h4>Guitarra eletrica modelo 2002</h4>
+                <p></p>
+                <img src="" alt="">
+                <p></p>
+                <a href=""></a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </form>
 </body>
 </html>
