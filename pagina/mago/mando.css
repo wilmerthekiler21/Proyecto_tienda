@@ -1,0 +1,36 @@
+.mago {
+    width: 100%;
+    max-width: 1200px;
+    height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+.mago .contenedor{
+    width: 330px;
+    height: 430px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2ox rgb(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin:20px;
+    text-align: center;
+    transition: all 0.25s;
+    background-color: grey;
+}
+.con_img iframe{
+    align-items: center;
+    justify-content: center;
+}
+.con_img img{
+    align-items: center;
+    justify-content: center;
+
+}
+p{
+    justify-content: center;
+    text-align: center;
+}
